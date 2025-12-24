@@ -1,0 +1,7 @@
+Flask==3.0.0
+python-dotenv==1.0.0
+
+# Adicione conforme precisa:
+# Flask-SQLAlchemy==3.1.1  # Se usar banco
+# Flask-Login==0.6.3       # Se precisar login
+# requests==2.31.0         # Se fizer requisições HTTP
