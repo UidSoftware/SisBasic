@@ -12,6 +12,11 @@ ENV/
 instance/
 .webassets-cache
 
+.venv/
+__pycache__/
+*.pyc
+
+
 # Environment
 .env
 .env.local
